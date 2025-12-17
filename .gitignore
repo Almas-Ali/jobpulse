@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE specific files
+.vscode/
+
+# Production database
+jobpulse.db
+
+# Logs
+logs/
+*.log
+
+*.md
+!README.md
+
+# Temporary files
+temp/
+temp_*/
+

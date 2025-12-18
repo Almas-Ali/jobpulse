@@ -2,8 +2,9 @@
 
 > A modern, production-ready job search application for BDJobs with a beautiful GUI and comprehensive database support.
 
-[![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-3.13+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Hits](https://hits.sh/github.com/Almas-Ali/jobpulse.svg)
 
 ![JobPulse Screenshot](https://raw.githubusercontent.com/Almas-Ali/jobpulse/refs/heads/main/screenshots/landing-page.png)
 

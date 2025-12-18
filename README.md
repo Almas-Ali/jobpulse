@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![JobPulse Screenshot](https://raw.githubusercontent.com/Almas-Ali/jobpulse/refs/heads/main/screenshots/landing-page.png)
+
 ## Overview
 
 JobPulse is a desktop application that provides a streamlined interface for searching and managing job listings from BDJobs.com. Built with modern Python technologies, it features a clean CustomTkinter GUI, SQLAlchemy database integration, and robust API handling.
